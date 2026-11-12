@@ -42,6 +42,3 @@ Explanation
 
 The generated "output.i" file contains the code after preprocessing and macro expansion.
 
-Author
-
-Student C Programming Project
